@@ -17,5 +17,5 @@ public class Calculations {
     public int mul(int a, int b){
         return a*b;
     }
-
+// второй 
 }
