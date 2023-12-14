@@ -4,8 +4,8 @@ public class Calculations {
 
     public int sum (int a, int b){
         return a + b;
-    }
-
+    }//
+    // Шш
     public int dif (int a, int b){
         return a - b;
     }
